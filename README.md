@@ -29,8 +29,8 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 </div> 
 
 <br />
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrChernicharo&layout=compact)](https://github.com/mrChernicharo/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrChernicharo&layout=compact)](https://github.com/mrChernicharo/github-readme-stats)
 
 ## Jobs
 <table style="text-align: right;">
