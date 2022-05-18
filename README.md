@@ -70,7 +70,7 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 <br />
 
 
-<!-- ![Felipe Chernicharo github stats](https://github-readme-stats.vercel.app/api?username=mrChernicharo&show_icons=true&theme=dark) -->
+![Felipe Chernicharo github stats](https://github-readme-stats.vercel.app/api?username=mrChernicharo&show_icons=true&theme=dark)
 
 ## Some online projects
 [My Portfolio](https://www.melodev.link)
