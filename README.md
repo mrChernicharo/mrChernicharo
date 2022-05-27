@@ -1,7 +1,7 @@
 ### Hi I'm Felipe 👋
 <img src="https://www.melodev.link/images/new-avatar.jpeg" width="240">
 
-<img src="https://stackoverflow.com/users/flair/13111779.png?theme=dark" width="208" height="58" alt="profile for Felipe Chernicharo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Felipe Chernicharo at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+
 ## About me
 Coding since 2018, I am  a Fullstack engineer with strong focus on frontend development. I have 3 years of professional experience dealing with various web and mobile technologies, most of them related to the JavaScript ecosystem.
 
@@ -30,7 +30,13 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 
 <br />
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrChernicharo&layout=compact)](https://github.com/mrChernicharo/github-readme-stats)
+
+
+## StackOverflow
+
+<img src="https://stackoverflow.com/users/flair/13111779.png?theme=dark" width="208" height="58" alt="profile for Felipe Chernicharo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Felipe Chernicharo at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 
 ## Jobs
 <table style="text-align: right;">
