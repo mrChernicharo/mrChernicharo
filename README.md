@@ -53,7 +53,7 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
   <tr>
     <td>Jun. 2020 - Dec.2021</td>
     <td>
-      <img src="https://versatec.com.br/www/img/logo-versatil-ti.png" height="30" title="versatil"/>
+      <img src="http://versatec.com.br/www/img/logo-versatil-ti.png" height="30" title="versatil"/>
     </td>
     <td>
       Software Engineer at Versátil developing B2B applications for Oi, one of the biggest telecoms companies in Brazil
