@@ -36,7 +36,7 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 
 ## StackOverflow
 
-<img src="https://stackoverflow.com/users/flair/13111779.png?theme=dark" width="208" height="58" alt="profile for Felipe Chernicharo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Felipe Chernicharo at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+<a href="https://stackoverflow.com/users/13111779/felipe-chernicharo"><img src="https://stackoverflow.com/users/flair/13111779.png?theme=dark" width="208" height="58" alt="profile for Felipe Chernicharo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Felipe Chernicharo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## Jobs
 <table style="text-align: right;">
