@@ -9,6 +9,7 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 <div>
 <img src="https://www.melodev.link/icons/javascript.svg" width="30" height="30" title="javascript"/>
 <img src="https://www.melodev.link/icons/typescript.svg" width="30" height="30" title="typescript"/>
+<img src="https://www.solidjs.com/assets/logo.123b04bc.svg" width="30" height="30" title="solidjs"/>
 <img src="https://www.melodev.link/icons/html5.svg" width="30" height="30" title="html"/>
 <img src="https://www.melodev.link/icons/css.svg" width="30" height="30" title="css"/>
 <img src="https://www.melodev.link/icons/node.svg" width="30" height="30" title="nodeJS"/>
