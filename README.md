@@ -9,24 +9,31 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 <div>
 <img src="https://www.melodev.link/icons/javascript.svg" width="30" height="30" title="javascript"/>
 <img src="https://www.melodev.link/icons/typescript.svg" width="30" height="30" title="typescript"/>
-<img src="https://www.solidjs.com/assets/logo.123b04bc.svg" width="30" height="30" title="solidjs"/>
 <img src="https://www.melodev.link/icons/html5.svg" width="30" height="30" title="html"/>
 <img src="https://www.melodev.link/icons/css.svg" width="30" height="30" title="css"/>
+<img src="https://www.melodev.link/icons/git.svg" width="30" height="30" title="git"/>
 <img src="https://www.melodev.link/icons/node.svg" width="30" height="30" title="nodeJS"/>
 <img src="https://www.melodev.link/icons/angular.svg" width="30" height="30" title="angular"/>
 <img src="https://www.melodev.link/icons/react.svg" width="30" height="30" title="react"/>
+<img src="https://www.solidjs.com/assets/logo.123b04bc.svg" width="30" height="30" title="solidjs"/>
 <img src="https://www.melodev.link/icons/react-native.svg" width="30" height="30" title="react-native"/>
+<img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" width="30" height="30" title="react-query"/>
+<img src="https://www.melodev.link/icons/redux.svg" width="30" height="30" title="redux"/>  
 <img src="https://www.melodev.link/icons/database.svg" width="30" height="30" title="sql"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30" height="30" title="postgres"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="30" height="30" title="mysql"/>
+<img src="https://www.melodev.link/icons/mongodb.svg" width="30" height="30" title="mongodb"/>
 <img src="https://www.melodev.link/icons/aws.svg" width="30" height="30" title="aws"/>
 <img src="https://www.sitespect.com/wp-content/uploads/2019/05/logo_gcp_hexagon_rgb.png" width="30" height="30" title="google cloud platform"/>
-<img src="https://www.melodev.link/icons/git.svg" width="30" height="30" title="git"/>
 <img src="https://www.melodev.link/icons/vercel.svg" width="30" height="30" title="vercel"/>
 <img src="https://www.melodev.link/icons/firebase.svg" width="30" height="30" title="firebase"/>
-<img src="https://www.melodev.link/icons/mongodb.svg" width="30" height="30" title="mongodb"/>
 <img src="https://www.melodev.link/icons/d3.png" width="30" height="30" title="d3"/>
 <img src="https://www.melodev.link/icons/three.png" width="30" height="30" title="threeJS"/>
 <img src="https://www.melodev.link/icons/sass.png" width="30" height="30" title="sass"/>
-<img src="https://www.melodev.link/icons/redux.svg" width="30" height="30" title="redux"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="30" height="30" title="tailwind"/>
+
+
+  
 </div> 
 
 <br />
