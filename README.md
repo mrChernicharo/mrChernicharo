@@ -30,6 +30,7 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 <img src="https://www.melodev.link/icons/d3.png" width="30" height="30" title="d3"/>
 <img src="https://www.melodev.link/icons/three.png" width="30" height="30" title="threeJS"/>
 <img src="https://www.melodev.link/icons/sass.png" width="30" height="30" title="sass"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="30" height="30" title="bootstrap"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="30" height="30" title="tailwind"/>
 
 
