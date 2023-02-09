@@ -15,7 +15,7 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 <img src="https://www.melodev.link/icons/node.svg" width="30" height="30" title="nodeJS"/>
 <img src="https://www.melodev.link/icons/angular.svg" width="30" height="30" title="angular"/>
 <img src="https://www.melodev.link/icons/react.svg" width="30" height="30" title="react"/>
-<img src="https://www.solidjs.com/assets/logo.123b04bc.svg" width="30" height="30" title="solidjs"/>
+<img src="https://www.solidjs.com/assets/logo-123b04bc.svg" width="30" height="30" title="solidjs"/>
 <img src="https://www.melodev.link/icons/react-native.svg" width="30" height="30" title="react-native"/>
 <img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" width="30" height="30" title="react-query"/>
 <img src="https://www.melodev.link/icons/redux.svg" width="30" height="30" title="redux"/>  
