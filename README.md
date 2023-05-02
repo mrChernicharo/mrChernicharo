@@ -95,13 +95,6 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 
 <br />
 
-<script>
-var startDate = new Date(2018, 3, 20).getTime(); // Apr 20th 2018
-var timeSince = Date.now() - startDate;
-var years = timeSince / 365.25 * 24 * 60 * 60 * 1000
-console.log(`i've been coding for ${years} years`);
-</script>
-
 
 ![Felipe Chernicharo github stats](https://github-readme-stats.vercel.app/api?username=mrChernicharo&show_icons=true&theme=dark)
 
