@@ -12,13 +12,14 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 <img src="https://www.melodev.link/icons/html5.svg" width="30" height="30" title="html"/>
 <img src="https://www.melodev.link/icons/css.svg" width="30" height="30" title="css"/>
 <img src="https://www.melodev.link/icons/git.svg" width="30" height="30" title="git"/>
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="30" height="30" title="C#" />
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-128.png" width="30" height="30" title="Unity" />
 <img src="https://www.melodev.link/icons/node.svg" width="30" height="30" title="nodeJS"/>
 <img src="https://www.melodev.link/icons/angular.svg" width="30" height="30" title="angular"/>
 <img src="https://www.melodev.link/icons/react.svg" width="30" height="30" title="react"/>
 <img src="https://www.solidjs.com/assets/logo-123b04bc.svg" width="30" height="30" title="solidjs"/>
 <img src="https://www.melodev.link/icons/react-native.svg" width="30" height="30" title="react-native"/>
-<img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" width="30" height="30" title="react-query"/>
-<img src="https://www.melodev.link/icons/redux.svg" width="30" height="30" title="redux"/>  
+<img src="https://www.melodev.link/icons/redux.svg" width="30" height="30" title="redux"/>
 <img src="https://www.melodev.link/icons/database.svg" width="30" height="30" title="sql"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30" height="30" title="postgres"/>
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="30" height="30" title="mysql"/>
@@ -32,6 +33,8 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 <img src="https://www.melodev.link/icons/sass.png" width="30" height="30" title="sass"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="30" height="30" title="bootstrap"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="30" height="30" title="tailwind"/>
+
+
 
 
   
@@ -91,6 +94,13 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 </table>
 
 <br />
+
+<script>
+var startDate = new Date(2018, 3, 20).getTime(); // Apr 20th 2018
+var timeSince = Date.now() - startDate;
+var years = timeSince / 365.25 * 24 * 60 * 60 * 1000
+console.log(`i've been coding for ${years} years`);
+</script>
 
 
 ![Felipe Chernicharo github stats](https://github-readme-stats.vercel.app/api?username=mrChernicharo&show_icons=true&theme=dark)
