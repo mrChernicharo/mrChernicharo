@@ -9,11 +9,10 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 <div>
 <img src="https://www.melodev.link/icons/javascript.svg" width="30" height="30" title="javascript"/>
 <img src="https://www.melodev.link/icons/typescript.svg" width="30" height="30" title="typescript"/>
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="30" height="30" title="C#" />
 <img src="https://www.melodev.link/icons/html5.svg" width="30" height="30" title="html"/>
 <img src="https://www.melodev.link/icons/css.svg" width="30" height="30" title="css"/>
 <img src="https://www.melodev.link/icons/git.svg" width="30" height="30" title="git"/>
-<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="30" height="30" title="C#" />
-<img src="https://cdn-icons-png.flaticon.com/128/5969/5969294.png" width="30" height="30" title="Unity" />
 <img src="https://www.melodev.link/icons/node.svg" width="30" height="30" title="nodeJS"/>
 <img src="https://www.melodev.link/icons/angular.svg" width="30" height="30" title="angular"/>
 <img src="https://www.melodev.link/icons/react.svg" width="30" height="30" title="react"/>
@@ -28,6 +27,7 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 <img src="https://www.sitespect.com/wp-content/uploads/2019/05/logo_gcp_hexagon_rgb.png" width="30" height="30" title="google cloud platform"/>
 <img src="https://www.melodev.link/icons/vercel.svg" width="30" height="30" title="vercel"/>
 <img src="https://www.melodev.link/icons/firebase.svg" width="30" height="30" title="firebase"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5969/5969294.png" width="30" height="30" title="Unity" />
 <img src="https://www.melodev.link/icons/d3.png" width="30" height="30" title="d3"/>
 <img src="https://www.melodev.link/icons/three.png" width="30" height="30" title="threeJS"/>
 <img src="https://www.melodev.link/icons/sass.png" width="30" height="30" title="sass"/>
