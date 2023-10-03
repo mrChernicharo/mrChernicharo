@@ -3,7 +3,7 @@
 
 
 ## About me
-Coding since 2018, I am  a Fullstack engineer with strong focus on frontend development. I have 3 years of professional experience dealing with various web and mobile technologies, most of them related to the JavaScript ecosystem.
+Coding since 2018, I am  a Fullstack engineer with strong focus on frontend development. I have 5 years of professional experience dealing with various web and mobile technologies, most of them related to the JavaScript ecosystem.
 
 ## Skills
 <div>
