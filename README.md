@@ -74,7 +74,8 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
   <tr>
     <td>Jun. 2020 - Dec.2021</td>
     <td>
-      <img src="http://versatec.com.br/www/img/logo-versatil-ti.png" height="30" title="versatil"/>
+      <!-- <img src="http://versatec.com.br/www/img/logo-versatil-ti.png" height="30" title="versatil"/> -->
+      <img src="https://versatec.com.br/wp-content/uploads/2023/08/14-768x253.png" height="30" title="versatil"/>
     </td>
     <td>
       Software Engineer at Versátil
