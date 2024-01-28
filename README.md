@@ -56,7 +56,8 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
      <tr>
     <td>Jun. 2022 - Present</td>
     <td>
-      <img style="border-radius:50px;" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1495816570/k7m0fi8709dla1kpaksh.png"  height="36" style="margin-top: 6px !important;" title="genesys"/>
+    <!--  <img style="border-radius:50px;" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1495816570/k7m0fi8709dla1kpaksh.png"  height="36" style="margin-top: 6px !important;" title="genesys"/> -->
+      <img src="https://string7devfiles.s3.amazonaws.com/jobs/genesys.webp" height="36" style="margin-top: 6px !important;" title="genesys" />
     </td>
     <td>
       Senior Software Engineer at Genesys
