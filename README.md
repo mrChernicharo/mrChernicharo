@@ -1,5 +1,5 @@
 ### Hi I'm Felipe 👋
-<img src="https://www.melodev.link/images/new-avatar.jpeg" width="240">
+<img src="https://string7devfiles.s3.amazonaws.com/avatar.jpeg" width="240">
 
 
 ## About me
