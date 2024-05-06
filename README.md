@@ -16,7 +16,7 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 <img src="https://string7devfiles.s3.amazonaws.com/skills/node.svg" width="30" height="30" title="nodeJS"/>
 <img src="https://string7devfiles.s3.amazonaws.com/skills/angular.svg" width="30" height="30" title="angular"/>
 <img src="https://string7devfiles.s3.amazonaws.com/skills/react.svg" width="30" height="30" title="react"/>
-<img src="https://www.solidjs.com/assets/logo-123b04bc.svg" width="30" height="30" title="solidjs"/>
+<img src="https://string7devfiles.s3.amazonaws.com/skills/solid.svg" width="30" height="30" title="solidjs"/>
 <img src="https://string7devfiles.s3.amazonaws.com/skills/react-native.svg" width="30" height="30" title="react-native"/>
 <img src="https://string7devfiles.s3.amazonaws.com/skills/redux.svg" width="30" height="30" title="redux"/>
 <img src="https://string7devfiles.s3.amazonaws.com/skills/database.svg" width="30" height="30" title="sql"/>
