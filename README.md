@@ -1,5 +1,6 @@
 ### Hi I'm Felipe 👋
-<img src="https://string7devfiles.s3.amazonaws.com/avatar.jpeg" width="240">
+<!-- <img src="https://string7devfiles.s3.amazonaws.com/avatar.jpeg" width="240"> -->
+<img src="https://string7devfiles.s3.amazonaws.com/avatar_2024.jpeg" wiidth="240">
 
 
 ## About me
