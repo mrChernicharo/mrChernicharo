@@ -10,7 +10,7 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
 <div>
 <img src="https://string7devfiles.s3.amazonaws.com/skills/javascript.svg" width="30" height="30" title="javascript"/>
 <img src="https://string7devfiles.s3.amazonaws.com/skills/typescript.svg" width="30" height="30" title="typescript"/>
-<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="30" height="30" title="C#" />
+<!-- <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="30" height="30" title="C#" /> -->
 <img src="https://string7devfiles.s3.amazonaws.com/skills/html5.svg" width="30" height="30" title="html"/>
 <img src="https://string7devfiles.s3.amazonaws.com/skills/css.svg" width="30" height="30" title="css"/>
 <img src="https://string7devfiles.s3.amazonaws.com/skills/git.svg" width="30" height="30" title="git"/>
