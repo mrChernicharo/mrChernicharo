@@ -78,7 +78,7 @@ Coding since 2018, I am  a Fullstack engineer with strong focus on frontend deve
     <td>
       <!-- <img src="http://versatec.com.br/www/img/logo-versatil-ti.png" height="30" title="versatil"/> -->
       <!-- <img src="https://versatec.com.br/wp-content/uploads/2023/08/14-768x253.png" height="30" title="versatil"/> -->
-      <img src="https://media.licdn.com/dms/image/v2/D560BAQEJwkCWI4HEiA/company-logo_200_200/company-logo_200_200/0/1692732842924/verstil_logo?e=1759363200&v=beta&t=C3JqOtjuAuY0OuiWJoEd0uVRJ_df8bVnBHOLVwq4yp0" height="30" title="versatil"/>
+      <img src="https://melodev.link/_next/image?url=https%3A%2F%2Fstring7devfiles.s3.amazonaws.com%2Fjobs%2Fversatil.png&w=256&q=75" height="30" title="versatil"/>
     </td>
     <td>
       Software Engineer at Versátil
